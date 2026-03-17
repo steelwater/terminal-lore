@@ -204,7 +204,7 @@ If contributing in the future:
 
 ## 🪶 Author
 
-**Dan / steelWater**
+**Danilo - Ramon Engtai Guillano**
 
 ---
 
