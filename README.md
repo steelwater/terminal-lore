@@ -26,7 +26,7 @@
 
 ---
 
-> A science fiction universe of time-traveling machines, hidden history, and consequences humanity does not yet understand.
+> A science fiction universe of time-traveling Terminals, hidden history, and consequences humanity does not yet understand.
 
 ---
 
