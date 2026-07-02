@@ -1,0 +1,40 @@
+{
+  "timeline": [
+    {
+      "id": "ancient-chronolith-event",
+      "era": "ancient",
+      "title": "Ancient Chronolith Prime arrival",
+      "status": "canon"
+    },
+    {
+      "id": "modern-resonant-event",
+      "era": "modern",
+      "title": "Modern Chronolith Resonant event reactivates anomalous zones",
+      "status": "canon"
+    },
+    {
+      "id": "horrox-discovery",
+      "era": "horrox",
+      "title": "Horaccio Roxas discovers Planet m.471 / Horrox using the Star Terminal",
+      "status": "draft"
+    },
+    {
+      "id": "minerva-mining",
+      "era": "horrox",
+      "title": "LightTech begins automated mining on Minerva",
+      "status": "canon"
+    },
+    {
+      "id": "terminal-deployments",
+      "era": "horrox",
+      "title": "LightTech deploys CPA Terminals into earlier historical periods",
+      "status": "canon"
+    },
+    {
+      "id": "m2-destabilization",
+      "era": "horrox",
+      "title": "Horrox M2 destabilization contributes to the later catastrophe timeline",
+      "status": "canon"
+    }
+  ]
+}
