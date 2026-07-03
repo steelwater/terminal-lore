@@ -2,6 +2,10 @@
 
 Terminal Lore uses status labels so ideas can be explored without breaking continuity.
 
+The technical continuity archive is **The Final Log**.
+
+The primary storytelling archive is **The Book of Memories**.
+
 ## Status Values
 
 - `canon` — accepted source-of-truth lore
@@ -9,37 +13,29 @@ Terminal Lore uses status labels so ideas can be explored without breaking conti
 - `apocrypha` — interesting variant or abandoned branch
 - `contradiction` — known conflict that needs resolution
 
-## Entry Metadata
+## Final Log Entries
 
-Each lore entry should begin with frontmatter:
+The Final Log explains, classifies, and indexes.
 
 ```yaml
 ---
 id: unique-entry-id
 title: Entry Title
-type: book | chapter | report | artifact | entity | timeline
+type: concept | entity | faction | location | event | artifact | continuity
 status: canon | draft | apocrypha | contradiction
-era: ancient | pirate | industrial | modern | horrox | post-collapse | unknown
 tags: []
 related: []
 ---
 ```
 
-## Rule of Thumb
+## Book of Memories Entries
 
-If something affects major continuity — Chronolith, Horrox, LightTech, Terminal AI, Sons of Impact, or historical Terminal discovery events — it needs an entry and a changelog note.
+The Book of Memories should contain recovered accounts, memories, logs, letters, recordings, songs, poems, inscriptions, field notes, photographs, and fragments.
 
-## Memory-First Rule
+It should not read like a wiki.
 
-The collection is called **The Book of Memories** because lore is preserved through accounts, memories, records, reports, inscriptions, logs, and reconstructions.
+## No Prophecy Rule
 
-There are no prophecies in this collection. If a document appears to predict the future, it should be framed as:
+There are no prophecies in the Book of Memories.
 
-- a warning,
-- a theory,
-- a failed projection,
-- a historical interpretation,
-- a machine simulation,
-- or a witness misunderstanding.
-
-The archive should feel like recovered memory, not divine foretelling.
+If something appears predictive, frame it as a warning, theory, failed projection, simulation, or misunderstanding.
