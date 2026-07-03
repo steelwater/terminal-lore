@@ -1,0 +1,24 @@
+{
+  "entries": [
+    { "id": "book-of-memories", "title": "The Book of Memories", "path": "book-of-memories/README.md" },
+    { "id": "book-of-origins", "title": "Book of Origins", "path": "book-of-memories/books/book-of-origins/README.md" },
+    { "id": "book-of-chronolith", "title": "Book of Chronolith", "path": "book-of-memories/books/book-of-chronolith/README.md" },
+    { "id": "chronolith-prime", "title": "Chronolith Prime", "path": "book-of-memories/books/book-of-chronolith/01-chronolith-prime.md" },
+    { "id": "chronolith-residue", "title": "Chronolith Residue", "path": "book-of-memories/books/book-of-chronolith/02-chronolith-residue.md" },
+    { "id": "chronolith-resonant", "title": "Chronolith Resonant", "path": "book-of-memories/books/book-of-chronolith/03-chronolith-resonant.md" },
+    { "id": "book-of-horaccio", "title": "Book of Horaccio", "path": "book-of-memories/books/book-of-horaccio/README.md" },
+    { "id": "horrox-system", "title": "Horrox System", "path": "book-of-memories/books/book-of-horaccio/01-horrox-system.md" },
+    { "id": "book-of-lighttech", "title": "Book of LightTech", "path": "book-of-memories/books/book-of-lighttech/README.md" },
+    { "id": "lighttech-disaster-report", "title": "LightTech Disaster Report", "path": "book-of-memories/books/book-of-lighttech/01-lighttech-disaster-report.md" },
+    { "id": "book-of-impact", "title": "Book of Impact", "path": "book-of-memories/books/book-of-impact/README.md" },
+    { "id": "sons-of-impact-manifesto", "title": "Sons of Impact Manifesto", "path": "book-of-memories/books/book-of-impact/01-sons-of-impact-manifesto.md" },
+    { "id": "book-of-terminals", "title": "Book of Terminals", "path": "book-of-memories/books/book-of-terminals/README.md" },
+    { "id": "contextual-phase-adaptation", "title": "Contextual Phase Adaptation", "path": "book-of-memories/books/book-of-terminals/01-contextual-phase-adaptation.md" },
+    { "id": "temporal-capsules", "title": "Temporal Capsules", "path": "book-of-memories/books/book-of-terminals/02-temporal-capsules.md" },
+    { "id": "prompt-and-vector", "title": "Prompt and Vector", "path": "book-of-memories/books/book-of-terminals/03-prompt-and-vector.md" },
+    { "id": "book-of-witnesses", "title": "Book of Witnesses", "path": "book-of-memories/books/book-of-witnesses/README.md" },
+    { "id": "witness-book-template", "title": "Template for a Witness Book", "path": "book-of-memories/books/book-of-witnesses/01-template-for-witness-book.md" },
+    { "id": "book-of-continuity", "title": "Book of Continuity", "path": "book-of-memories/books/book-of-continuity/README.md" },
+    { "id": "reading-order", "title": "Reading Order", "path": "book-of-memories/reading-order.md" }
+  ]
+}
