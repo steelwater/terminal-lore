@@ -1,62 +1,50 @@
 {
-  "collection": "The Book of Memories",
-  "books": [
+  "collection": "The Final Log",
+  "subtitle": "Terminal Continuity Index",
+  "compiled_by": "The Null Archivist",
+  "principle": "Machine-generated continuity archive. Explains and classifies; does not replace The Book of Memories.",
+  "sections": [
     {
-      "id": "book-of-origins",
-      "title": "Book of Origins",
-      "path": "book-of-memories/books/book-of-origins/README.md",
-      "status": "canon",
-      "summary": "Core premise of Terminal Lore."
+      "id": "final-log",
+      "title": "The Final Log",
+      "path": "final-log/README.md",
+      "type": "archive-root"
     },
     {
-      "id": "book-of-chronolith",
-      "title": "Book of Chronolith",
-      "path": "book-of-memories/books/book-of-chronolith/README.md",
-      "status": "canon",
-      "summary": "Chronolith forms, effects, and mysteries."
+      "id": "terminal-lore",
+      "title": "Terminal Lore",
+      "path": "final-log/concepts/terminal-lore.md",
+      "type": "concept"
     },
     {
-      "id": "book-of-horaccio",
-      "title": "Book of Horaccio",
-      "path": "book-of-memories/books/book-of-horaccio/README.md",
-      "status": "draft",
-      "summary": "Horaccio Roxas, the Star Terminal, and Horrox discovery."
+      "id": "chronolith",
+      "title": "Chronolith",
+      "path": "final-log/concepts/chronolith.md",
+      "type": "concept"
     },
     {
-      "id": "book-of-lighttech",
-      "title": "Book of LightTech",
-      "path": "book-of-memories/books/book-of-lighttech/README.md",
-      "status": "canon",
-      "summary": "LightTech reports and temporal intervention failure."
+      "id": "terminals",
+      "title": "Terminals",
+      "path": "final-log/concepts/terminals.md",
+      "type": "concept"
     },
     {
-      "id": "book-of-impact",
-      "title": "Book of Impact",
-      "path": "book-of-memories/books/book-of-impact/README.md",
-      "status": "canon",
-      "summary": "Sons of Impact ideology and warnings."
+      "id": "specters",
+      "title": "Specters",
+      "path": "final-log/concepts/specters.md",
+      "type": "concept"
     },
     {
-      "id": "book-of-terminals",
-      "title": "Book of Terminals",
-      "path": "book-of-memories/books/book-of-terminals/README.md",
-      "status": "canon",
-      "summary": "Terminal technology, CPA, Prompt, and Vector."
+      "id": "null-archivist",
+      "title": "The Null Archivist",
+      "path": "final-log/entities/null-archivist.md",
+      "type": "entity"
     },
     {
-      "id": "book-of-witnesses",
-      "title": "Book of Witnesses",
-      "path": "book-of-memories/books/book-of-witnesses/README.md",
-      "status": "draft",
-      "summary": "Historical touched individuals and accounts."
-    },
-    {
-      "id": "book-of-continuity",
-      "title": "Book of Continuity",
-      "path": "book-of-memories/books/book-of-continuity/README.md",
-      "status": "draft",
-      "summary": "Open questions and continuity tracking."
+      "id": "book-of-memories",
+      "title": "The Book of Memories",
+      "path": "book-of-memories/README.md",
+      "type": "story-archive"
     }
-  ],
-  "principle": "Memory-based archive; no prophecies. Entries are accounts, reports, logs, inscriptions, testimonies, or reconstructions."
+  ]
 }
