@@ -31,6 +31,7 @@
 - [Canon Policy](continuity/canon-policy.md)
 - [Unresolved Questions](continuity/unresolved-questions.md)
 - [Timeline](continuity/timeline.md)
+- [Legacy Terminal Timeline](continuity/legacy-terminal-timeline.md)
 
 ## Related Story Archive
 

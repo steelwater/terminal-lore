@@ -16,6 +16,7 @@
     { "id": "canon-policy", "title": "Canon Policy", "path": "final-log/continuity/canon-policy.md", "type": "continuity" },
     { "id": "unresolved-questions", "title": "Unresolved Questions", "path": "final-log/continuity/unresolved-questions.md", "type": "continuity" },
     { "id": "timeline", "title": "Timeline", "path": "final-log/continuity/timeline.md", "type": "continuity" },
+    { "id": "legacy-terminal-timeline", "title": "Legacy Terminal Timeline", "path": "final-log/continuity/legacy-terminal-timeline.md", "type": "continuity" },
     { "id": "book-of-memories", "title": "The Book of Memories", "path": "book-of-memories/README.md", "type": "story-archive" }
   ]
 }
