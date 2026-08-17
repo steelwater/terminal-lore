@@ -9,18 +9,40 @@ related: [horrox-system, recovered-terminal-timeline, timeline, chronolith]
 
 # M2 Impact and Technological Collapse
 
-The M2 catastrophe is the event in which fragments associated with Horrox's second moon reached the inner Solar System and struck Earth, triggering a worldwide technological collapse.
+The M2 catastrophe is the event in which fragments associated with the second moon of Planet m.471 reached the inner Solar System and struck Earth, triggering a worldwide technological collapse.
 
 This event is especially important as a continuity anchor for the **Runic Labyrinth** game.
 
 > **NULL ARCHIVIST // CHRONOLOGY WARNING**  
 > The event itself is strongly represented in recovered records, but the exact dates and physical explanations remain dependent on sources that do not always agree with later reconstructions. The sequence below preserves one major recovered chronology without declaring every year mechanically exact.
 
+## Leading Activation Hypothesis
+
+Later LightTech analysis identifies **Chronolith contamination beyond Sol** as the leading trigger for the Horrox response that included M2's orbital acceleration.
+
+Chronolith residue had spread through:
+
+- long-range probes
+- warp stabilization systems
+- Minerva mining infrastructure
+
+After Chronolith presence reached the Horrox system, LightTech correlated it with anomalous signal amplification, loss of Minerva communications, M2's non-random orbital acceleration, and delayed system-wide destabilization.
+
+LightTech's working conclusion was:
+
+**The Horrox system responded to Chronolith presence.**
+
+The exact agent remains unknown. A later non-local response hypothesis proposes that an intelligence or system can detect Chronolith excitation and may interpret it as intrusion, signal, contamination, or an activation request.
+
+Human interstellar expansion therefore appears to have been a more important activation vector than the simple discovery of Planet m.471.
+
+This remains a **leading hypothesis**, not a confirmed description of the entity or mechanism that moved M2.
+
 ## Recovered Sequence
 
 ### 2076-08-23 — M2 Leaves Its Stable Orbit
 
-M2's orbital speed around Horrox began accelerating. After several rotations, it was reported to have reached a velocity sufficient to leave the system on a course toward Earth.
+M2's orbital speed around Planet m.471 began accelerating. After several rotations, it was reported to have reached a velocity sufficient to leave the system on a course toward Earth.
 
 ### 2076-08-31 — Warning From Viajero
 
@@ -86,8 +108,9 @@ Exact calendar years may be revised later without removing that core event from 
 
 The archive has not reconciled the following:
 
-- whether M2 itself, its fragments, or an external force caused its orbital acceleration
-- whether the fragments contained Chronolith, Chronolith Resonant material, or unrelated extraterrestrial matter
+- what non-local intelligence, system, or physical process produced the Horrox response
+- how Chronolith excitation translated into M2's orbital acceleration
+- whether the M2 fragments contained Chronolith, Chronolith Resonant material, or unrelated extraterrestrial matter
 - the exact physical mechanism connecting deep impacts, volcanic activity, and the worldwide electromagnetic failure
 - whether later groups intentionally exaggerated the role of militias in destroying surviving machines
 - whether all regions of Earth experienced the technological collapse equally
