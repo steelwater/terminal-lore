@@ -10,13 +10,18 @@
     { "id": "temporal-capsules", "title": "Temporal Capsules", "path": "final-log/concepts/temporal-capsules.md", "type": "concept" },
     { "id": "specters", "title": "Specters", "path": "final-log/concepts/specters.md", "type": "concept" },
     { "id": "prompt-and-vector", "title": "Prompt and Vector", "path": "final-log/entities/prompt-and-vector.md", "type": "entity" },
+    { "id": "dark4nal0g", "title": "Dark4nal0g", "path": "final-log/entities/dark4nal0g.md", "type": "entity" },
     { "id": "lighttech", "title": "LightTech Corporation", "path": "final-log/factions/lighttech.md", "type": "faction" },
     { "id": "sons-of-impact", "title": "Sons of Impact", "path": "final-log/factions/sons-of-impact.md", "type": "faction" },
     { "id": "horrox-system", "title": "Horrox System", "path": "final-log/locations/horrox-system.md", "type": "location" },
     { "id": "canon-policy", "title": "Canon Policy", "path": "final-log/continuity/canon-policy.md", "type": "continuity" },
     { "id": "unresolved-questions", "title": "Unresolved Questions", "path": "final-log/continuity/unresolved-questions.md", "type": "continuity" },
     { "id": "timeline", "title": "Timeline", "path": "final-log/continuity/timeline.md", "type": "continuity" },
+    { "id": "runic-labyrinth", "title": "Runic Labyrinth", "path": "final-log/continuity/runic-labyrinth.md", "type": "continuity" },
+    { "id": "m2-impact-and-technological-collapse", "title": "M2 Impact and Technological Collapse", "path": "final-log/continuity/m2-impact-and-technological-collapse.md", "type": "continuity" },
+    { "id": "recovered-terminal-timeline", "title": "Recovered Terminal Timeline", "path": "final-log/continuity/recovered-terminal-timeline.md", "type": "continuity" },
     { "id": "legacy-terminal-timeline", "title": "Legacy Terminal Timeline", "path": "final-log/continuity/legacy-terminal-timeline.md", "type": "continuity" },
-    { "id": "book-of-memories", "title": "The Book of Memories", "path": "book-of-memories/README.md", "type": "story-archive" }
+    { "id": "book-of-memories", "title": "The Book of Memories", "path": "book-of-memories/README.md", "type": "story-archive" },
+    { "id": "runic-labyrinth-simulator", "title": "Runic Labyrinth Simulator Record", "path": "book-of-memories/runic-labyrinth-simulator.md", "type": "recovered-media" }
   ]
 }
