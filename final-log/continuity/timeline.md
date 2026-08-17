@@ -58,9 +58,11 @@ Terminal 1 is described as a minimalist maintenance terminal using a text menu i
 
 Status: `draft`
 
-## 1992 / 2016 / 2020 — Discovery of Horrox
+## 1992 / 2016 / 2020 — Discovery of Planet m.471
 
-Horaccio Roxas discovers Planet m.471, later known as Horrox, using the Star Terminal. One record places a Star Terminal discovery in 1992; another describes discovery in 2016; the fuller chronology places the public announcement on 2020-02-16.
+Horaccio Roxas discovers **Planet m.471**, known as Horrox, using the Star Terminal. One record places a Star Terminal discovery in 1992; another describes discovery in 2016; the fuller chronology places the public announcement on 2020-02-16.
+
+The exact discovery year remains unresolved, but the planetary designation is finalized as **m.471**.
 
 Status: `contradiction`
 
@@ -78,7 +80,7 @@ Status: `draft`
 
 ## 2021-02-16 — Horrox Accepted
 
-Astronomers accept m.471 and the name Horrox enters the recovered chronology.
+Astronomers accept the existence of Planet m.471, known as Horrox.
 
 Status: `draft`
 
@@ -130,16 +132,6 @@ An orbital station is established to support mining and system operations around
 
 Status: `draft`
 
-## 2062 — C.A.R.L. Simulator Provenance
-
-The current Runic Labyrinth source identifies **Dark4nal0g**, a programmer in New Orleans in 2062, as the person telling Carl's 1878 story through the **Chronolith Adventure Runic Labyrinth Simulator**.
-
-Earlier preserved builds say DarkAnal0g created the simulator, while still earlier versions attribute the reconstruction to One Touched. The exact construction date therefore remains provisional, but **New Orleans / 2062** is the current provenance anchor.
-
-See [Runic Labyrinth](runic-labyrinth.md) and [Dark4nal0g](../entities/dark4nal0g.md).
-
-Status: `draft`
-
 ## 2065-05-14 — Minerva Falls Silent
 
 Communications and ore shipments from Minerva stop. Later probes fail to establish a confirmed cause.
@@ -168,7 +160,11 @@ Status: `draft`
 
 M2's orbital velocity begins accelerating until the moon leaves Horrox on a trajectory toward Earth.
 
-Status: `canon`
+Later LightTech analysis correlates the acceleration with **Chronolith residue propagation beyond Sol**. Residue carried by probes, warp systems, and Minerva infrastructure may have triggered a non-local response in the Horrox system. LightTech concluded that the system responded to Chronolith presence, while the exact intelligence or mechanism behind that response remains unknown.
+
+See [M2 Impact and Technological Collapse](m2-impact-and-technological-collapse.md).
+
+Status: `canon` event; `draft` activation mechanism
 
 ## 2076-08-31 — Viajero Returns to Contact
 
@@ -202,9 +198,17 @@ The world enters a technological dark age. Surviving books and accumulated knowl
 
 This is a core historical anchor for **Runic Labyrinth**.
 
-The current Runic Labyrinth simulator provenance record is dated 2062, before this collapse. If the simulator is later established as a post-collapse reconstruction, its date will require reconciliation.
-
 See [M2 Impact and Technological Collapse](m2-impact-and-technological-collapse.md) and [Runic Labyrinth](runic-labyrinth.md).
+
+Status: `draft`
+
+## 2101 — C.A.R.L. Simulator Provenance
+
+The current Runic Labyrinth source places **Dark4nal0g** and the **Chronolith Adventure Runic Labyrinth Simulator** in New Orleans in **2101**.
+
+The simulator reconstructs Carl's 1878 encounter at St. Roch Cemetery during the post-collapse rebuilding era.
+
+See [Runic Labyrinth](runic-labyrinth.md) and [Dark4nal0g](../entities/dark4nal0g.md).
 
 Status: `draft`
 
@@ -214,19 +218,17 @@ The recovered chronology records the creation and widespread use of an 8086B chi
 
 Status: `draft`
 
-## 2038 / 2138 — Terminal 934 and Gatherers
+## 2138 — Terminal 934 and Gatherers
 
-Records place Terminal 934 and Gatherer deployment in South Africa in two different centuries. Gatherers are described as small mining drones used to collect meteor fragments for sale to refineries.
+Terminal 934 Model computers are used in South Africa to deploy Gatherers, small mining drones that collect meteor fragments for sale to refineries.
 
-Status: `contradiction`
+Status: `draft`
 
 ## 3201 / 33rd Century — Terminal 582 Deployment
 
-LightTech places Terminal 582 inside a temporal capsule in a classified anomalous zone. Prompt is associated with the mission to prevent the Star Terminal discovery.
+LightTech places Terminal 582 inside a temporal capsule in a classified anomalous zone. Prompt is associated with the mission to prevent the Star Terminal discovery of **Planet m.471**.
 
-Recovered sources disagree over whether the target designation was M.456 or m.471 / Horrox.
-
-Status: `contradiction`
+Status: `contradiction` chronology
 
 ## Later Terminal Deployments
 
