@@ -14,6 +14,19 @@ The Final Log preserves unresolved continuity questions instead of hiding them.
 - What is the relationship between the Touched and ordinary witnesses?
 - Did Prompt and Vector understand their own historical side effects?
 
+## Runic Labyrinth Questions
+
+- Which parts of the C.A.R.L. Simulator are literal history and which parts are reconstruction or game-like abstraction?
+- Was the luminous Orb itself a Terminal using Contextual Phase Adaptation, or a different Chronolith-linked technology?
+- What exactly was the glowing Rune or relic recovered beneath St. Roch Cemetery?
+- Why were Chronolith shards present beneath St. Roch Cemetery in 1878?
+- What is the historical nature of the ghouls and the Demon represented by the simulator?
+- How did Carl's story survive after the simulator says stories about the Orb were lost in time?
+- Did Dark4nal0g build the C.A.R.L. Simulator in New Orleans in 2062, or was he operating or retelling an older reconstruction there?
+- Are **One Touched**, **DarkAnal0g**, and **Dark4nal0g** different custodians, different names for the same person, or different layers of the recovered source?
+- Is Dark4nal0g one of the Touched?
+- The current simulator provenance is dated 2062, while the technological collapse is dated 2083. Is the simulator meant to predate the collapse, or will its construction date eventually move into the rebuilding era?
+
 ## Recovered Terminal Timeline Questions
 
 - Was Horrox first discovered by Star Terminal in 1992, 2016, or only formally established with the 2020 public announcement?
