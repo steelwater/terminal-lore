@@ -10,10 +10,10 @@ source: https://docs.google.com/document/d/1wI8JN6b0erd03bAOO3tELklQzL6IRYJYE8j9
 
 # Recovered Terminal Timeline
 
-This entry preserves lore from the older **Terminal Timeline** working document.
+This entry preserves lore from the older **Terminal Timeline** working document while applying later canon decisions where they have been finalized.
 
 > **NULL ARCHIVIST // DISCREPANCY NOTICE**  
-> The surviving records do not agree on every year, designation, or sequence. Some were written close to the events; others were copied, reconstructed, or remembered much later. Multiple sources therefore describe the same history from different positions of knowledge. Dates below are preserved rather than forced into a single chronology. Where records disagree, the disagreement is part of the archive until better evidence is recovered.
+> The surviving records do not agree on every year or sequence. Some were written close to the events; others were copied, reconstructed, or remembered much later. Multiple sources therefore describe the same history from different positions of knowledge. Unresolved dates remain visible. Canon decisions that have since been settled are normalized in this archive.
 
 This source contains material that predates the current Final Log structure. It is retained because a disputed record is still a record.
 
@@ -63,14 +63,6 @@ One navigation fragment lists **Terminal 582** in 1992. Elsewhere in the same so
 
 Terminal 684 is listed as the **Mediculo Terminal**. No further description survives in this source.
 
-### 2038 — Terminal 934
-
-A summary fragment places Terminal 934 in South Africa in 2038 and says merchants used it to deploy Gatherers.
-
-A later, more detailed entry places this activity in **2138**.
-
-> **Archive discrepancy:** Both dates are retained. The records may refer to different models, different deployments, or an incorrect copied century.
-
 ### Unknown Future — Valhalla Terminal
 
 The Valhalla Terminal is listed without further description in this source.
@@ -85,13 +77,13 @@ The **Personnel HyperSpace Terminal (pHT)** was used by space-service personnel 
 
 ## 2016 — Discovery Record
 
-Astronomer **Horaccio Roxas**, working with the **Star Terminal**, detected a repeating signal or pattern involving meteors passing through Earth's orbit. The Star Terminal helped identify coordinates encoded in the repeating pattern. Those coordinates pointed to a planet designated **m.471**.
+Astronomer **Horaccio Roxas**, working with the **Star Terminal**, detected a repeating signal or pattern involving meteors passing through Earth's orbit. The Star Terminal helped identify coordinates encoded in the repeating pattern. Those coordinates pointed to **Planet m.471**, known as Horrox.
 
 > **Archive discrepancy:** Other surviving records place the Star Terminal discovery in 1992, while this source separately records a public announcement in 2020. The Final Log therefore treats the exact discovery year as unresolved.
 
 ## 2020-02-16 — Public Announcement
 
-Horaccio Roxas, described in this source as a backyard Filipino astronomer, officially announced the discovery of m.471 through his YouTube channel.
+Horaccio Roxas, described in this source as a backyard Filipino astronomer, officially announced the discovery of Planet m.471 through his YouTube channel.
 
 ## 2020-07-01 — Early Prompt Prototype
 
@@ -101,11 +93,11 @@ The source itself leaves the program's early name unwritten.
 
 ## 2021-02-16 — Horrox Accepted
 
-On the first anniversary of the public announcement, astronomers were said to have accepted the existence of m.471 and named the planet **Horrox**.
+On the first anniversary of the public announcement, astronomers were said to have accepted the existence of Planet m.471, known as Horrox.
 
 ## 2021-03-01 — LightTech Probe Funding
 
-Private mining corporation **LightTech Corp.** funded a probe project to explore Horrox.
+Private mining corporation **LightTech Corp.** funded a probe project to explore Planet m.471.
 
 ## 2022–2029 — Mars Expansion
 
@@ -115,13 +107,13 @@ By the middle of the century, industrial activity was increasingly moved to Mars
 
 ## 2029-08-14 — Horrox Probe Launch
 
-An unnamed probe was launched toward Horrox on a planned seven-year journey.
+An unnamed probe was launched toward Planet m.471 on a planned seven-year journey.
 
 The probe deployed beacons along its path to serve as relay stations for faster communication.
 
 ## 2036-08-14 — Probe Reaches Horrox
 
-The probe reached Horrox and reported:
+The probe reached Planet m.471 and reported:
 
 - a mineral-rich planet suitable for mining
 - no detected planetary life
@@ -129,7 +121,7 @@ The probe reached Horrox and reported:
 
 ## 2039-09-06 — Horrox Satellite Platform
 
-A satellite platform was created to orbit Horrox. The source says it was created and launched from an orbital platform associated with Earth.
+A satellite platform was created to orbit Planet m.471. The source says it was created and launched from an orbital platform associated with Earth.
 
 ## 2041 — Extinct Animal Zoo
 
@@ -137,7 +129,7 @@ A zoo was created for extinct animals restored through cloning. Dinosaurs and an
 
 ## 2054-11-04 — Minerva Mining Station
 
-The first mining station was established on Horrox's first moon, **Minerva**.
+The first mining station was established on the first moon of Planet m.471, **Minerva**.
 
 It was described as the first unmanned mining facility in the system and shipped **Hydronium ore** to Mars. The facility was built, owned, and operated for profit by LightTech Corp.
 
@@ -145,7 +137,7 @@ The source describes Mars as increasingly industrial by this period, with Earth 
 
 ## 2056 — Horrox Orbital Station
 
-An orbital space station was built to support the creation and coordination of mining operations around Horrox and its smaller moons.
+An orbital space station was built to support the creation and coordination of mining operations around Planet m.471 and its smaller moons.
 
 ## 2065-05-14 — Minerva Falls Silent
 
@@ -155,7 +147,7 @@ Subsequent probes could not determine the cause. Speculation and anomalous probe
 
 ## 2067 — First Horrox Crew Trains
 
-The first military crew began training for a long-distance human mission to Horrox.
+The first military crew began training for a long-distance human mission to Planet m.471.
 
 ## 2068 — Viajero Launch
 
@@ -171,7 +163,7 @@ Viajero and its crew docked at the Minerva mining facility.
 
 They found evidence consistent with possible alien activity but did not locate confirmed alien life. The crew restarted the mine, then departed for the Horrox orbital station.
 
-During the journey, Viajero malfunctioned and was drawn toward Horrox by the planet's gravity.
+During the journey, Viajero malfunctioned and was drawn toward Planet m.471 by the planet's gravity.
 
 ## 2073-07-09 — Contact Lost
 
@@ -179,9 +171,19 @@ Earth lost contact with Viajero and its crew.
 
 ## 2076-08-23 — M2 Accelerates
 
-The orbital speed of Horrox's second moon, **M2**, began accelerating.
+The orbital speed of the second moon of Planet m.471, **M2**, began accelerating.
 
 After several rotations, M2 reached sufficient speed to leave the system on a trajectory described as a slingshot toward Earth.
+
+### Later LightTech Correlation
+
+A later LightTech disaster analysis connects this acceleration to **Chronolith residue propagation beyond Sol**.
+
+Chronolith residue carried by long-range probes, warp stabilization systems, and Minerva mining infrastructure preceded anomalous signal amplification, loss of Minerva communication, M2's non-random orbital acceleration, and system-wide destabilization.
+
+LightTech's conclusion was that **the Horrox system responded to Chronolith presence**.
+
+The exact mechanism remains unresolved. A non-local intelligence or system capable of detecting Chronolith excitation is the leading hypothesis.
 
 ## 2076-08-31 — Viajero Returns to Contact
 
@@ -241,8 +243,6 @@ Recovered Terminal 934 Model specifications:
 - 4 GB memory
 - handheld form factor for portable drone control
 
-> **Archive discrepancy:** A separate summary in the same source dates merchant use of Terminal 934 to 2038. The century remains unresolved.
-
 ## 3201 — Terminal 582 Temporal Deployment Record
 
 The source places a major LightTech temporal deployment in 3201, described elsewhere more generally as the 33rd century.
@@ -253,21 +253,19 @@ Terminal 582 was placed in a classified anomalous area.
 
 **Terminal 582 AI codename:** Prompt
 
-**Recovered prime directive:** Hack and wipe Star Terminal to prevent discovery of planet **M.456**.
-
-> **Archive discrepancy:** Other Final Log material identifies the target planet as **m.471 / Horrox**. M.456 is preserved here because the recovered source uses that designation.
+**Recovered prime directive:** Hack and wipe Star Terminal to prevent discovery of **Planet m.471**.
 
 ---
 
 # Major Reconciliation Questions
 
-The following disagreements are intentionally unresolved:
+The following disagreements remain unresolved:
 
 - Was the Star Terminal discovery in 1992, 2016, or formally established only in 2020?
 - Why does one 1992 index line name Terminal 582 where another names Star Terminal?
-- Is M.456 an obsolete designation, a corrupted copy, or a different world from m.471 / Horrox?
-- Did Terminal 934 and the Gatherers operate in 2038, 2138, or both?
 - What happened to Viajero between the loss of contact in 2073 and its return in 2076?
+- What non-local intelligence, system, or physical process produced the Horrox response?
+- How did Chronolith excitation translate into M2's orbital acceleration?
 - Were the M2 fragments ordinary extraterrestrial material, Chronolith-bearing material, or something else?
 - What exact physical mechanism linked the 2083 impacts, volcanic activity, and worldwide technological failure?
 
