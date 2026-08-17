@@ -31,6 +31,8 @@
 - [Canon Policy](continuity/canon-policy.md)
 - [Unresolved Questions](continuity/unresolved-questions.md)
 - [Timeline](continuity/timeline.md)
+- [M2 Impact and Technological Collapse](continuity/m2-impact-and-technological-collapse.md)
+- [Recovered Terminal Timeline](continuity/recovered-terminal-timeline.md)
 - [Legacy Terminal Timeline](continuity/legacy-terminal-timeline.md)
 
 ## Related Story Archive
