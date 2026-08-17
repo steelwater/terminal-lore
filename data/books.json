@@ -45,6 +45,12 @@
       "title": "The Book of Memories",
       "path": "book-of-memories/README.md",
       "type": "story-archive"
+    },
+    {
+      "id": "runic-labyrinth-simulator",
+      "title": "Runic Labyrinth Simulator Record",
+      "path": "book-of-memories/runic-labyrinth-simulator.md",
+      "type": "recovered-media"
     }
   ]
 }

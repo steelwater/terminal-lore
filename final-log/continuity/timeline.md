@@ -3,8 +3,8 @@ id: timeline
 title: Timeline
 type: continuity
 status: draft
-tags: [timeline, terminals, horrox, m2, lighttech]
-related: [recovered-terminal-timeline, legacy-terminal-timeline, m2-impact-and-technological-collapse, horrox-system]
+tags: [timeline, terminals, horrox, m2, lighttech, runic-labyrinth]
+related: [recovered-terminal-timeline, legacy-terminal-timeline, m2-impact-and-technological-collapse, horrox-system, runic-labyrinth, dark4nal0g]
 ---
 
 # Timeline
@@ -27,6 +27,18 @@ Status: `canon`
 Chronolith Resonant reactivates dormant anomalous zones and makes later temporal systems possible.
 
 Status: `canon`
+
+## 1878 — Carl's Runic Labyrinth Encounter
+
+At St. Roch Cemetery in New Orleans, a boy named Carl follows a luminous Orb into a sealed cemetery mausoleum.
+
+The surviving C.A.R.L. Simulator reconstructs three lower depths containing Chronolith shards, ghouls, keys and passages, a Demon, and a glowing Rune or relic. The Orb ultimately takes the Rune and Carl returns to the cemetery.
+
+Because the event is known through a later simulator, the archive distinguishes the stable story anchors from mechanics that may be reconstruction rather than literal history.
+
+See [Runic Labyrinth](runic-labyrinth.md).
+
+Status: `draft`
 
 ## 1940 — Alpha Terminal Record
 
@@ -118,6 +130,16 @@ An orbital station is established to support mining and system operations around
 
 Status: `draft`
 
+## 2062 — C.A.R.L. Simulator Provenance
+
+The current Runic Labyrinth source identifies **Dark4nal0g**, a programmer in New Orleans in 2062, as the person telling Carl's 1878 story through the **Chronolith Adventure Runic Labyrinth Simulator**.
+
+Earlier preserved builds say DarkAnal0g created the simulator, while still earlier versions attribute the reconstruction to One Touched. The exact construction date therefore remains provisional, but **New Orleans / 2062** is the current provenance anchor.
+
+See [Runic Labyrinth](runic-labyrinth.md) and [Dark4nal0g](../entities/dark4nal0g.md).
+
+Status: `draft`
+
 ## 2065-05-14 — Minerva Falls Silent
 
 Communications and ore shipments from Minerva stop. Later probes fail to establish a confirmed cause.
@@ -180,7 +202,9 @@ The world enters a technological dark age. Surviving books and accumulated knowl
 
 This is a core historical anchor for **Runic Labyrinth**.
 
-See [M2 Impact and Technological Collapse](m2-impact-and-technological-collapse.md).
+The current Runic Labyrinth simulator provenance record is dated 2062, before this collapse. If the simulator is later established as a post-collapse reconstruction, its date will require reconciliation.
+
+See [M2 Impact and Technological Collapse](m2-impact-and-technological-collapse.md) and [Runic Labyrinth](runic-labyrinth.md).
 
 Status: `draft`
 
