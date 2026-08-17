@@ -13,6 +13,14 @@
       "status": "canon"
     },
     {
+      "id": "runic-labyrinth-1878",
+      "date": "1878",
+      "era": "historical-terminal-encounter",
+      "title": "Carl follows a luminous Orb into a sealed mausoleum at St. Roch Cemetery in New Orleans",
+      "status": "draft",
+      "source": "https://steelwater.itch.io/runic-labyrinth"
+    },
+    {
       "id": "alpha-terminal-1940",
       "date": "1940",
       "era": "terminal-records",
@@ -67,6 +75,15 @@
       "era": "horrox",
       "title": "LightTech begins automated mining on Minerva",
       "status": "canon"
+    },
+    {
+      "id": "carl-simulator-2062",
+      "date": "2062",
+      "era": "simulation-provenance",
+      "title": "Dark4nal0g, a programmer in New Orleans, tells Carl's story through the C.A.R.L. Simulator",
+      "status": "draft",
+      "construction_date": "provisional",
+      "source": "https://steelwater.itch.io/runic-labyrinth"
     },
     {
       "id": "minerva-silence",
