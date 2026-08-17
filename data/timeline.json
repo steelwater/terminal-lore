@@ -13,27 +13,143 @@
       "status": "canon"
     },
     {
+      "id": "alpha-terminal-1940",
+      "date": "1940",
+      "era": "terminal-records",
+      "title": "Recovered Alpha Terminal record",
+      "status": "draft"
+    },
+    {
+      "id": "terminal-0-1954",
+      "date": "1954",
+      "era": "terminal-records",
+      "title": "Recovered Terminal 0 record",
+      "status": "draft"
+    },
+    {
+      "id": "terminal-1-1980",
+      "date": "1980",
+      "era": "terminal-records",
+      "title": "Recovered Terminal 1 maintenance record",
+      "status": "draft"
+    },
+    {
       "id": "horrox-discovery",
+      "date": "1992/2016/2020",
       "era": "horrox",
       "title": "Horaccio Roxas discovers Planet m.471 / Horrox using the Star Terminal",
+      "status": "contradiction"
+    },
+    {
+      "id": "prompt-prototype-2020",
+      "date": "2020-07-01",
+      "era": "horrox",
+      "title": "Early Prompt-related prototype tested in the Philippines",
+      "status": "draft"
+    },
+    {
+      "id": "horrox-probe-launch",
+      "date": "2029-08-14",
+      "era": "horrox",
+      "title": "Probe launches toward Horrox and deploys relay beacons",
+      "status": "draft"
+    },
+    {
+      "id": "horrox-probe-arrival",
+      "date": "2036-08-14",
+      "era": "horrox",
+      "title": "Probe reaches Horrox and confirms mineral wealth and two moons",
       "status": "draft"
     },
     {
       "id": "minerva-mining",
+      "date": "2054-11-04",
       "era": "horrox",
       "title": "LightTech begins automated mining on Minerva",
       "status": "canon"
     },
     {
-      "id": "terminal-deployments",
+      "id": "minerva-silence",
+      "date": "2065-05-14",
       "era": "horrox",
-      "title": "LightTech deploys CPA Terminals into earlier historical periods",
-      "status": "canon"
+      "title": "Minerva mining facility stops communicating and shipping ore",
+      "status": "draft"
+    },
+    {
+      "id": "viajero-minerva",
+      "date": "2073-07-06",
+      "era": "horrox",
+      "title": "Viajero reaches Minerva, restarts mining operations, and departs for the orbital station",
+      "status": "draft"
     },
     {
       "id": "m2-destabilization",
-      "era": "horrox",
-      "title": "Horrox M2 destabilization contributes to the later catastrophe timeline",
+      "date": "2076-08-23",
+      "era": "catastrophe",
+      "title": "Horrox M2 orbital acceleration begins",
+      "status": "canon"
+    },
+    {
+      "id": "viajero-return",
+      "date": "2076-08-31",
+      "era": "catastrophe",
+      "title": "Viajero returns to contact and warns Earth about M2",
+      "status": "contradiction"
+    },
+    {
+      "id": "m2-interception",
+      "date": "2078-01-01",
+      "era": "catastrophe",
+      "title": "Earth launches missiles to intercept M2",
+      "status": "draft"
+    },
+    {
+      "id": "m2-fragmentation",
+      "date": "2081-06-05",
+      "era": "catastrophe",
+      "title": "M2 breaks into smaller fragments before interception",
+      "status": "draft"
+    },
+    {
+      "id": "m2-nuclear-deflection",
+      "date": "2082-03-09",
+      "era": "catastrophe",
+      "title": "Nuclear detonations divert some M2 fragments",
+      "status": "draft"
+    },
+    {
+      "id": "m2-impact-technology-collapse",
+      "date": "2083",
+      "era": "catastrophe",
+      "title": "M2 fragments strike Earth and trigger a global technological collapse",
+      "status": "draft",
+      "game_anchor": "Runic Labyrinth"
+    },
+    {
+      "id": "8086b-rebuilding",
+      "date": "2113",
+      "era": "rebuilding",
+      "title": "Recovered chronology records the 8086B chip during technological rebuilding",
+      "status": "draft"
+    },
+    {
+      "id": "terminal-934-gatherers",
+      "date": "2038/2138",
+      "era": "rebuilding",
+      "title": "Terminal 934 Model computers deploy Gatherer meteor-fragment drones in South Africa",
+      "status": "contradiction"
+    },
+    {
+      "id": "terminal-582-deployment",
+      "date": "3201 / 33rd century",
+      "era": "temporal-intervention",
+      "title": "LightTech deploys Terminal 582 through an anomalous zone",
+      "status": "contradiction"
+    },
+    {
+      "id": "terminal-deployments",
+      "era": "temporal-intervention",
+      "title": "LightTech deploys CPA Terminals into earlier historical periods",
       "status": "canon"
     }
   ]
