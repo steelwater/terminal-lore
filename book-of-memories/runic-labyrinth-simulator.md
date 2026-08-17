@@ -12,7 +12,7 @@ source: https://steelwater.itch.io/runic-labyrinth
 **Recovered media type:** interactive simulation  
 **Archive designation:** C.A.R.L. Simulator — Chronolith Adventure Runic Labyrinth  
 **Historical scene:** St. Roch Cemetery, New Orleans, 1878  
-**Later provenance:** New Orleans, 2062
+**Later provenance:** New Orleans, 2101
 
 ---
 
@@ -22,7 +22,7 @@ source: https://steelwater.itch.io/runic-labyrinth
 
 In the long age of ghouls, ghosts, fever, and mourning, a boy named Carl follows a luminous Orb into a sealed cemetery mausoleum.
 
-The recovered simulator identifies **Dark4nal0g**, a programmer in New Orleans in 2062, as the person telling Carl's story through the Chronolith Adventure Runic Labyrinth Simulator.
+The recovered simulator identifies **Dark4nal0g**, a programmer associated with the Chronolith Adventure Runic Labyrinth Simulator in New Orleans in **2101**.
 
 ---
 
@@ -68,9 +68,9 @@ But Carl, the cemetery, the Orb, the descent, the Chronolith shards, the Demon, 
 
 And the simulator itself survives much later.
 
-**New Orleans, 2062.**
+**New Orleans, 2101.**
 
-A programmer calling himself **Dark4nal0g** tells Carl's story again.
+A programmer calling himself **Dark4nal0g** tells Carl's story again during the rebuilding era after the technological collapse.
 
 Whether he recovered it, inherited it, remembered it, or reconstructed it remains unrecorded.
 

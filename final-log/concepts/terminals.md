@@ -50,15 +50,15 @@ Status: `draft`
 
 ### Star Terminal
 
-Associated with Horaccio Roxas and the discovery of the planet later known as Horrox.
+Associated with Horaccio Roxas and the discovery of **Planet m.471**, known as Horrox.
 
 Recovered sources disagree on whether the key discovery belongs to 1992, 2016, or the 2020 public announcement.
 
-Status: `contradiction`
+Status: `contradiction` chronology
 
 ### Terminal 582
 
-Associated with Prompt and LightTech's attempt to interfere with the Star Terminal discovery through temporal deployment.
+Associated with Prompt and LightTech's attempt to interfere with the Star Terminal discovery of Planet m.471 through temporal deployment.
 
 A recovered source places its deployment in 3201 / the 33rd century.
 
@@ -72,7 +72,7 @@ Status: `draft`
 
 ### Terminal 934 Model
 
-A handheld computer associated with Gatherer drones in South Africa.
+A handheld computer associated with Gatherer drones in South Africa in **2138**.
 
 Recovered specifications:
 
@@ -82,9 +82,7 @@ Recovered specifications:
 - 4 GB memory
 - portable drone-control role
 
-The source gives both **2038** and **2138** for Terminal 934 / Gatherer activity.
-
-Status: `contradiction`
+Status: `draft`
 
 ### Valhalla Terminal
 

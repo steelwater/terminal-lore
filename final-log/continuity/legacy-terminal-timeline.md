@@ -10,11 +10,9 @@ source: https://sigbinan.co/terminaltimeline.html
 
 # Legacy Terminal Timeline
 
-This entry preserves the contents of the older `terminaltimeline.html` page from `sigbinan.co`.
+This entry preserves material from the older `terminaltimeline.html` page from `sigbinan.co`, normalized where later canon decisions have been finalized.
 
-It is included in The Final Log as a **legacy source**. Some names, dates, and planet designations may differ from the current canon. In particular, this page uses **M.456**, while newer Final Log material uses **m.471 / Horrox**.
-
-The Null Archivist should treat this as an earlier recovered continuity layer, not as a fully reconciled canon document.
+The Null Archivist should treat this as an earlier recovered continuity layer, not as a complete canon chronology.
 
 ## Source Navigation
 
@@ -22,8 +20,8 @@ The Null Archivist should treat this as an earlier recovered continuity layer, n
 - 1954 - Terminal 0
 - 1980 - Terminal 1
 - 1992 - Star Terminal
+- 2138 - Terminal 934
 - 33rd Century AD - Terminal 582
-- 2038 - Terminal 934
 - Unknown Future - Valhalla Terminal
 - Unknown Future - pHT
 
@@ -59,7 +57,9 @@ Terminal 1 was a minimalist terminal used for computer maintenance jobs. It used
 
 **Date:** 1992 AD
 
-Star Terminal was used to analyze the position of stars and found the planet **M.456**.
+Star Terminal was used to analyze the position of stars and discover **Planet m.471**, known as Horrox.
+
+The exact discovery year remains disputed elsewhere in the archive, but the planetary designation is finalized as **m.471**.
 
 ## Terminal 582
 
@@ -67,23 +67,23 @@ Star Terminal was used to analyze the position of stars and found the planet **M
 
 **Date:** 33rd Century AD
 
-LightTech Corp. placed the Terminals in a capsule and buried it in anomalous areas like the Bermuda Triangle.
+LightTech Corp. placed Terminals in capsules and buried them in anomalous areas such as the Bermuda Triangle.
 
-Popular scientific theory states that these anomalous areas are wormholes that defy physics' definition of space and time.
+Popular scientific theory states that these anomalous areas are wormholes that defy ordinary definitions of space and time.
 
-Terminal 582 was one of the terminals placed in a classified anomalous area.
+Terminal 582 was one of the Terminals placed in a classified anomalous area.
 
 **Terminal 582 AI Codename:** Prompt
 
-**Prime Directive:** Hack and wipe Star Terminal to prevent the discovery of planet M.456. It will try to complete its mission as soon as it connects to the Internet.
+**Prime Directive:** Hack and wipe Star Terminal to prevent the discovery of **Planet m.471**. It will try to complete its mission as soon as it connects to the Internet.
 
 ## Terminal 934
 
 **Where:** Earth: South Africa
 
-**Date:** 2038 AD
+**Date:** 2138 AD
 
-Merchants used Terminal 934 to deploy Gatherers.
+Terminal 934 Model computers were used to deploy Gatherers.
 
 ## Valhalla Terminal
 
@@ -105,30 +105,22 @@ It was used by space service personnel to monitor vital stats while working in s
 
 # Reconciliation Notes
 
-## M.456 and Horrox
+## Planet m.471 / Horrox
 
-The legacy page says the Star Terminal found **M.456**. Current Final Log material identifies the discovered planet as **m.471 / Horrox**.
-
-Possible interpretations:
-
-- M.456 is an older name later replaced by m.471.
-- M.456 is an early continuity designation before Horrox was defined.
-- M.456 and Horrox are separate discoveries that still need reconciliation.
-- The legacy page is an in-universe corrupted or incomplete recovered record.
+The Final Log now uses **Planet m.471** as the sole astronomical designation for Horrox.
 
 ## Terminal 582 and Prompt
 
-The legacy page already connects Terminal 582, Prompt, LightTech, anomalous zones, and the mission to prevent the Star Terminal discovery. This aligns strongly with current Terminal Lore structure.
+The legacy page connects Terminal 582, Prompt, LightTech, anomalous zones, and the mission to prevent the Star Terminal discovery. This aligns strongly with current Terminal Lore structure.
 
 ## Terminal 934 and Gatherers
 
-Terminal 934 and Gatherers are legacy concepts that should be preserved for future classification.
+Terminal 934 and Gatherers are placed in **2138**.
 
 Open questions:
 
-- What are Gatherers?
 - Why was Terminal 934 in South Africa?
-- Who were the merchants?
+- Who were the merchants associated with Gatherer activity?
 - Are the merchants human, post-human, corporate, alien, or machine agents?
 
 ## pHT

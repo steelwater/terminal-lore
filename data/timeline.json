@@ -45,7 +45,7 @@
       "id": "horrox-discovery",
       "date": "1992/2016/2020",
       "era": "horrox",
-      "title": "Horaccio Roxas discovers Planet m.471 / Horrox using the Star Terminal",
+      "title": "Horaccio Roxas discovers Planet m.471 using the Star Terminal",
       "status": "contradiction"
     },
     {
@@ -59,14 +59,14 @@
       "id": "horrox-probe-launch",
       "date": "2029-08-14",
       "era": "horrox",
-      "title": "Probe launches toward Horrox and deploys relay beacons",
+      "title": "Probe launches toward Planet m.471 and deploys relay beacons",
       "status": "draft"
     },
     {
       "id": "horrox-probe-arrival",
       "date": "2036-08-14",
       "era": "horrox",
-      "title": "Probe reaches Horrox and confirms mineral wealth and two moons",
+      "title": "Probe reaches Planet m.471 and confirms mineral wealth and two moons",
       "status": "draft"
     },
     {
@@ -75,15 +75,6 @@
       "era": "horrox",
       "title": "LightTech begins automated mining on Minerva",
       "status": "canon"
-    },
-    {
-      "id": "carl-simulator-2062",
-      "date": "2062",
-      "era": "simulation-provenance",
-      "title": "Dark4nal0g, a programmer in New Orleans, tells Carl's story through the C.A.R.L. Simulator",
-      "status": "draft",
-      "construction_date": "provisional",
-      "source": "https://steelwater.itch.io/runic-labyrinth"
     },
     {
       "id": "minerva-silence",
@@ -103,8 +94,9 @@
       "id": "m2-destabilization",
       "date": "2076-08-23",
       "era": "catastrophe",
-      "title": "Horrox M2 orbital acceleration begins",
-      "status": "canon"
+      "title": "M2 orbital acceleration begins",
+      "status": "canon",
+      "activation_hypothesis": "Chronolith residue propagation beyond Sol triggered a non-local Horrox system response"
     },
     {
       "id": "viajero-return",
@@ -143,6 +135,14 @@
       "game_anchor": "Runic Labyrinth"
     },
     {
+      "id": "carl-simulator-2101",
+      "date": "2101",
+      "era": "rebuilding",
+      "title": "Dark4nal0g and the C.A.R.L. Simulator are recorded in New Orleans",
+      "status": "draft",
+      "source": "https://steelwater.itch.io/runic-labyrinth"
+    },
+    {
       "id": "8086b-rebuilding",
       "date": "2113",
       "era": "rebuilding",
@@ -151,16 +151,16 @@
     },
     {
       "id": "terminal-934-gatherers",
-      "date": "2038/2138",
+      "date": "2138",
       "era": "rebuilding",
       "title": "Terminal 934 Model computers deploy Gatherer meteor-fragment drones in South Africa",
-      "status": "contradiction"
+      "status": "draft"
     },
     {
       "id": "terminal-582-deployment",
       "date": "3201 / 33rd century",
       "era": "temporal-intervention",
-      "title": "LightTech deploys Terminal 582 through an anomalous zone",
+      "title": "LightTech deploys Terminal 582 through an anomalous zone to prevent discovery of Planet m.471",
       "status": "contradiction"
     },
     {
