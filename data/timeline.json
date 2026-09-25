@@ -100,6 +100,13 @@
       "status": "draft"
     },
     {
+      "id": "horrox-mining-staffed-launch",
+      "date": "2075-09-17",
+      "era": "horrox",
+      "title": "1st Horrox Mining Ltd. begins staffed operations on Minerva",
+      "status": "canon"
+    },
+    {
       "id": "m2-destabilization",
       "date": "2076-08-23",
       "era": "catastrophe",
