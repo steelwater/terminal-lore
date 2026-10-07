@@ -38,6 +38,10 @@ The operation maintains a formal Operations Handbook and an old-industry-style s
 
 ## Chronolith
 
-Hydronium is the facility's established commercial resource. Chronolith is discovered gradually during Hydronium mining rather than being the known purpose of the operation from the beginning.
+Hydronium is the facility's established commercial resource. Tiny fragments of an unknown material occur within some Hydronium-bearing asteroids but are invisible to standard mineral scanners.
 
-The discovery and later mining of Chronolith lead toward the catastrophe, but the exact sequence and mechanism remain intentionally unresolved while that history is developed.
+Recurring excavator breakdowns and interference provide the first practical clue. A crew member eventually notices that some otherwise unexplained faults correlate with particular MNV targets or ore batches. Investigation isolates small samples, which receive an ordinary mineral/sample designation rather than the name Chronolith.
+
+A major concentration of the same numbered material is discovered later on M2. Its important properties remain unknown at first. Only later history identifies it as Chronolith and connects deliberate extraction to the catastrophe.
+
+The mineral number, discovering crew member, exact M2 deposit, dates, and precise causal mechanism remain unresolved.
