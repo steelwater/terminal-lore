@@ -170,7 +170,11 @@ Status: `draft`
 
 Commercial Hydronium extraction is centered on the nearby **Minerva Cluster**, where registered asteroid targets are worked by mining vessels and material is returned to the Minerva facility for refining, grading, storage, and transport to Mars.
 
-During this era, miners gradually encounter material later identified as **Chronolith** while pursuing Hydronium. Chronolith discovery and eventual extraction become part of the causal chain leading toward the later Horrox catastrophe; the discovery is gradual rather than common knowledge at Launch Day.
+During this era, tiny fragments of material later identified as **Chronolith** occur within some Hydronium-bearing asteroids. Standard mineral scanners do not detect the fragments. Their earliest observable effect is indirect: recurring excavator faults and interference correlate with particular mining targets or ore loads until a crew member eventually recognizes that an unknown material may be responsible.
+
+Small samples are later isolated and given an ordinary mineral/sample designation whose number remains unresolved. The material's unusual properties are not yet understood.
+
+Later survey work connects the same numbered material to a major concentration on **M2**. The M2 material is not immediately known as Chronolith. Scientific and commercial interest eventually leads to deliberate extraction, becoming part of the causal chain toward the Horrox catastrophe.
 
 The facility AI begins simply as **Facility AI / Control**. The crew later gives it the informal name **Fran**. Industrial **Cargo Mechs** handle heavy containers, transport loading, and large equipment under crew supervision.
 
