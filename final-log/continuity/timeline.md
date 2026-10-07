@@ -164,6 +164,22 @@ Earth loses contact with the Viajero crew.
 
 Status: `draft`
 
+## 2075-09-17 — 1st Horrox Mining Ltd. Staffed Operations Begin
+
+**1st Horrox Mining Ltd.**, a LightTech Corp subsidiary, begins staffed operations on Minerva. The operation grows from the earlier unmanned mining infrastructure restored by Viajero into a working mining, processing, storage, maintenance, docking, and export community.
+
+Commercial Hydronium extraction is centered on the nearby **Minerva Cluster**, where registered asteroid targets are worked by mining vessels and material is returned to the Minerva facility for refining, grading, storage, and transport to Mars.
+
+During this era, tiny fragments of material later identified as **Chronolith** occur within some Hydronium-bearing asteroids. Standard mineral scanners do not detect the fragments. Their earliest observable effect is indirect: recurring excavator faults and interference correlate with particular mining targets or ore loads until a crew member eventually recognizes that an unknown material may be responsible.
+
+Small samples are later isolated and given an ordinary mineral/sample designation whose number remains unresolved. The material's unusual properties are not yet understood.
+
+Later survey work connects the same numbered material to a major concentration on **M2**. The M2 material is not immediately known as Chronolith. Scientific and commercial interest eventually leads to deliberate extraction, becoming part of the causal chain toward the Horrox catastrophe.
+
+The facility AI begins simply as **Facility AI / Control**. The crew later gives it the informal name **Fran**. Industrial **Cargo Mechs** handle heavy containers, transport loading, and large equipment under crew supervision.
+
+Status: `canon`
+
 ## 2076-08-23 — M2 Destabilization
 
 M2's orbital velocity begins accelerating until the moon leaves Horrox on a trajectory toward Earth.

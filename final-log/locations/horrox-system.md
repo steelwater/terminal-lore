@@ -55,6 +55,56 @@ A recovered chronology places the first LightTech mining station on Minerva on *
 
 On **2065-05-14**, Minerva stopped sending communications and ore shipments. Later probes failed to determine a confirmed cause. Some footage and speculation suggested alien activity, but no alien life was verified.
 
+## Staffed Minerva Era
+
+The unmanned mining phase was not the final form of Minerva operations. After Viajero restored the mine in 2073, **1st Horrox Mining Ltd.**, a LightTech Corp subsidiary, began a staffed operation on **2075-09-17**.
+
+The facility functions as a mining, refining, grading, storage, maintenance, docking, and export hub. It is a working community rather than an outpost waiting for catastrophe.
+
+### Minerva Cluster
+
+Commercial Hydronium extraction is centered on the **Minerva Cluster**, a population of asteroids operating near Minerva. Surveyed targets use permanent identifiers in the form `MNV-####`. Important targets may acquire informal crew nicknames without losing their registry codes.
+
+The normal Hydronium chain is:
+
+**Asteroid → Mining Vessel → Minerva Facility → Refining → Grading → Storage → Cargo Mech → Hydronium Transport → Mars**
+
+Dedicated Mars transports use `HT-###` logistics identifiers and carry supplies, equipment, mail, personnel, and empty containers inbound before returning with processed Hydronium.
+
+### Chronolith Discovery
+
+Hydronium is the established commercial resource of the Minerva operation. **Chronolith is separate from Hydronium.**
+
+During the staffed mining era, tiny fragments of an unknown material occur within some Hydronium-bearing asteroids. Standard mineral scanners do not detect them. Instead, the first clue is operational: certain excavators suffer recurring breakdowns, sensor interference, communications noise, control glitches, or shutdowns after particular MNV assignments or contact with particular ore loads.
+
+Most breakdowns remain ordinary industrial faults. Over time, a technically observant crew member notices the correlation and proposes that something in the mined material is interfering with equipment.
+
+Investigation eventually isolates tiny anomalous fragments. They receive an ordinary mineral/sample designation rather than the name Chronolith; the designation itself remains unresolved canon. Their important properties are not immediately understood.
+
+Later surveys identify a major concentration of the same numbered material on **M2**. At that stage it is still classified by its mineral designation, not recognized as Chronolith. Scientific and commercial interest eventually leads to deliberate extraction.
+
+Later history identifies the material as **Chronolith** and connects its discovery and mining to the causal chain of the Horrox catastrophe. The discovering crew member, mineral number, exact M2 deposit, discovery dates, and precise catastrophe mechanism remain open for future recovered records.
+
+### Cargo Mechs
+
+Heavy cargo is moved by industrial **Cargo Mechs** supervised by Cargo crew. They retrieve containers from storage, move Hydronium through cargo decks, load and unload transports, reposition heavy equipment, and assist Maintenance with large components.
+
+Cargo Mechs are industrial machines, not sentient characters. Individual units may nevertheless acquire reputations and informal identities through recurring faults, maintenance history, and crew chatter.
+
+### Facility AI / Fran
+
+At the beginning of staffed operations, the facility intelligence is known simply as **Facility AI / Control**. It manages and reports on facility operations and is particularly precise when applying the Operations Handbook.
+
+The name **Fran** is not an original system designation. It is an informal name the crew gives the AI later as their working relationship develops.
+
+The facility itself likewise does not begin with the nickname **the Kettle**. That identity is acquired later through the Kettle Incident and subsequent crew folklore.
+
+### Facility Life
+
+The staffed facility includes an off-shift recreation space called **the Cantina**, shared by miners, Refinery, Grading, Storage, Cargo, Docking, Maintenance, visiting transport crews, and other personnel.
+
+The facility maintains an Operations Handbook and a persistent safety record based on consecutive station-days without a recordable safety accident. These workplace systems, along with ordinary repairs, deliveries, arguments, jokes, games, meals, and accumulated crew history, define Minerva life before the catastrophe.
+
 ## Viajero Mission
 
 Recovered records describe **Viajero** as the first crewed long-distance mission sent to investigate the Horrox/Minerva situation.
