@@ -75,9 +75,15 @@ Dedicated Mars transports use `HT-###` logistics identifiers and carry supplies,
 
 Hydronium is the established commercial resource of the Minerva operation. **Chronolith is separate from Hydronium.**
 
-During the staffed mining era, Chronolith is discovered gradually as crews work Hydronium targets. Its significance is not immediately understood. Continued discovery and eventual Chronolith extraction become part of the causal chain leading to the Horrox catastrophe.
+During the staffed mining era, tiny fragments of an unknown material occur within some Hydronium-bearing asteroids. Standard mineral scanners do not detect them. Instead, the first clue is operational: certain excavators suffer recurring breakdowns, sensor interference, communications noise, control glitches, or shutdowns after particular MNV assignments or contact with particular ore loads.
 
-The exact sequence of finds, classification, exploitation, and the mechanism connecting Chronolith mining to the catastrophe remain open for later recovered records.
+Most breakdowns remain ordinary industrial faults. Over time, a technically observant crew member notices the correlation and proposes that something in the mined material is interfering with equipment.
+
+Investigation eventually isolates tiny anomalous fragments. They receive an ordinary mineral/sample designation rather than the name Chronolith; the designation itself remains unresolved canon. Their important properties are not immediately understood.
+
+Later surveys identify a major concentration of the same numbered material on **M2**. At that stage it is still classified by its mineral designation, not recognized as Chronolith. Scientific and commercial interest eventually leads to deliberate extraction.
+
+Later history identifies the material as **Chronolith** and connects its discovery and mining to the causal chain of the Horrox catastrophe. The discovering crew member, mineral number, exact M2 deposit, discovery dates, and precise catastrophe mechanism remain open for future recovered records.
 
 ### Cargo Mechs
 
