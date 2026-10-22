@@ -21,7 +21,7 @@ The Book of Memories should feel like the thing being recovered.
 
 ## Recovered Media
 
-- [Runic Labyrinth Simulator Record](runic-labyrinth-simulator.md) — recovered C.A.R.L. simulation of Carl's 1878 encounter at St. Roch Cemetery, with later provenance associated with Dark4nal0g in New Orleans in 2062.
+- [Runic Labyrinth Simulator Record](runic-labyrinth-simulator.md) — recovered C.A.R.L. simulation of Carl's 1878 encounter at St. Roch Cemetery, with later provenance associated with Dark4nal0g in New Orleans in 2101.
 
 ## Planned Books
 

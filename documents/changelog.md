@@ -50,13 +50,30 @@ but became unrecoverable after insertion into earlier timelines.
 
 ---
 
+# Version 0.4
+Date: 2026-08-18
+
+Continuity cleanup and canon decisions:
+
+• Finalized Horrox as **Planet m.471** and removed obsolete planetary designations from active lore entries
+• Finalized **2138** as the Terminal 934 / Gatherer deployment date
+• Moved **C.A.R.L. Simulator provenance to 2101, New Orleans**
+• Positioned the C.A.R.L. Simulator within the post-collapse rebuilding era
+• Added the leading M2 activation hypothesis from LightTech analysis:
+  - Chronolith residue propagated beyond Sol through probes, warp systems, and Minerva infrastructure
+  - the Horrox system responded to Chronolith presence
+  - M2's non-random orbital acceleration was part of that response
+  - the exact non-local intelligence or mechanism remains unresolved
+• Updated Final Log entries, recovered timelines, Book of Memories references, and machine-readable timeline data to match these decisions
+
+---
+
 # Future Updates Planned
 
 Items currently requiring further lore definition:
 
-• Name of the meteor mineral that activates anomalous zones
 • Chronolith degradation stages
-• Alien activation mechanism
+• Exact non-local mechanism behind the Horrox response and M2 acceleration
 • Exact origin of anomalous zones
 • Fate of Echo Squad (The Lost Legion)
 • Timeline of the Sons of Impact formation
