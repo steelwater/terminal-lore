@@ -20,3 +20,7 @@ During Hydronium operations, tiny scanner-invisible fragments of an unknown mate
 Hydronium and this material are distinct. Later surveys find a major concentration of the same numbered mineral on M2. Its identity and properties are still not understood when first classified. Deliberate extraction follows only later.
 
 Later history identifies the material as **Chronolith** and connects its mining to the Horrox catastrophe. The mineral number, discovering crew member, exact M2 deposit, and detailed discovery chronology remain intentionally unresolved.
+
+## Personnel Reference (Draft)
+
+The [founding personnel registry](../personnel/README.md) indexes the nine provisional 2075 Horrox Mining game-roster identities and proposed dossiers. Those biographies remain **draft and subject to explicit owner approval**, not established history. Game saves own changing assignments and incident records.
