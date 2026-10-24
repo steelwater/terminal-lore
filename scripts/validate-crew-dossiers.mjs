@@ -57,5 +57,5 @@ for (const [i, p] of data.personnel.entries()) {
 for (const [dept,count] of counts) assert(count <= 9, dept + ' exceeds keypad page limit')
 const readme = readFileSync(join(repo, 'final-log/personnel/README.md'), 'utf8')
 for (const id of ids) assert(readme.includes('horrox/' + id + '.md'), 'index missing ' + id)
-assert(readme.includes('NOT a canonical game import'))
-console.log('Crew dossier registry OK: ' + ids.size + ' unique records; ' + counts.size + ' sections; no captive-facing private biography export.')
+assert(readme.includes('**not** a canonical game import'))
+console.log('Crew dossier registry OK: ' + ids.size + ' unique records; ' + counts.size + ' sections; no captain-facing private biography export.')
