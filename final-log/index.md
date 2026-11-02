@@ -18,6 +18,10 @@
 - [Prompt and Vector](entities/prompt-and-vector.md)
 - [Dark4nal0g](entities/dark4nal0g.md)
 
+## Personnel
+
+- [Personnel Registry — 1st Horrox Mining Ltd. (draft)](personnel/README.md)
+
 ## Factions
 
 - [LightTech](factions/lighttech.md)

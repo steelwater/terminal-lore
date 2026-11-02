@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "editorial_status": "DRAFT / NOT CANON APPROVED",
+  "game_source_sha": "41c6643b2cc45ad71e04394225dc63c27eae6108",
+  "game_source_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+  "operation_start": "2075-09-17",
+  "personnel": [
+    {
+      "personnel_id": "mara-vale",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Mara Vale",
+      "callsign": "Latch",
+      "role": "Docking lead",
+      "department": "Docking",
+      "vessel_id": "hauler-02",
+      "experience": "veteran",
+      "radio_style": "code-first",
+      "voice_profile_id": "steady",
+      "dossier": "mara-vale.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "iko-ren",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Iko Ren",
+      "callsign": "Patch",
+      "role": "Maintenance engineer",
+      "department": "Maintenance",
+      "vessel_id": null,
+      "experience": "established",
+      "radio_style": "conversational",
+      "voice_profile_id": "bright",
+      "dossier": "iko-ren.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "sol-arden",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Sol Arden",
+      "callsign": "Deepwell",
+      "role": "Extraction operator",
+      "department": "Mining",
+      "vessel_id": "excavator-03",
+      "experience": "veteran",
+      "radio_style": "code-first",
+      "voice_profile_id": "measured",
+      "dossier": "sol-arden.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "tess-oren",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Tess Oren",
+      "callsign": "Rill",
+      "role": "Extraction survey operator",
+      "department": "Mining",
+      "vessel_id": "excavator-03",
+      "experience": "newcomer",
+      "radio_style": "plain-first",
+      "voice_profile_id": "bright",
+      "dossier": "tess-oren.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "ada-sen",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Ada Sen",
+      "callsign": "Sieve",
+      "role": "Refinery operator",
+      "department": "Refinery",
+      "vessel_id": null,
+      "experience": "established",
+      "radio_style": "plain-first",
+      "voice_profile_id": "measured",
+      "dossier": "ada-sen.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "noor-ven",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Noor Ven",
+      "callsign": "Facet",
+      "role": "Grading operator",
+      "department": "Grading",
+      "vessel_id": null,
+      "experience": "veteran",
+      "radio_style": "code-first",
+      "voice_profile_id": "steady",
+      "dossier": "noor-ven.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "eli-moss",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Eli Moss",
+      "callsign": "Ledger",
+      "role": "Storage custodian",
+      "department": "Storage",
+      "vessel_id": null,
+      "experience": "established",
+      "radio_style": "plain-first",
+      "voice_profile_id": "measured",
+      "dossier": "eli-moss.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "bea-kade",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Bea Kade",
+      "callsign": "Crate",
+      "role": "Cargo Mech supervisor",
+      "department": "Cargo",
+      "vessel_id": null,
+      "experience": "veteran",
+      "radio_style": "conversational",
+      "voice_profile_id": "steady",
+      "dossier": "bea-kade.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    },
+    {
+      "personnel_id": "oren-dax",
+      "canon_status": "draft",
+      "identity_status": "implemented-provisional",
+      "name": "Oren Dax",
+      "callsign": "Keel",
+      "role": "Transport pilot",
+      "department": "Transport",
+      "vessel_id": "hauler-02",
+      "experience": "veteran",
+      "radio_style": "code-first",
+      "voice_profile_id": "measured",
+      "dossier": "oren-dax.md",
+      "spoiler_visibility": {
+        "captain_at_start": [
+          "personnel_id",
+          "name",
+          "callsign",
+          "role",
+          "department",
+          "vessel_id",
+          "radio_style",
+          "voice_profile_id"
+        ],
+        "private_biography": "owner_review_only"
+      },
+      "sources": {
+        "game_pr": "https://github.com/steelwater/horrox-mining/pull/11",
+        "game_commit": "41c6643b2cc45ad71e04394225dc63c27eae6108"
+      }
+    }
+  ]
+}
