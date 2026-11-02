@@ -45,8 +45,8 @@ for (const [i, p] of data.personnel.entries()) {
   for (const heading of ['## Service identity', '## Personal details', '## Character and personal history', '## Service chronology']) {
     assert(md.includes(heading), 'missing '+heading+' in '+id)
   }
-  const body = md.replace(/^---\\n[\\s\\S]*?\\n---\\n/, '')
-  assert(!/(PROPOSED|OWNER REVIEW|prototype|PR #|source commit|game save|continuity guardrails|FUTURE \\/ UNCONFIRMED|Editorial references|Confidential author notes|roster\\.json)/i.test(body), 'out-of-world content: '+id)
+  const body = md.replace(/^---\n[\s\S]*?\n---\n/, '')
+  assert(!/(PROPOSED|OWNER REVIEW|prototype|PR #|source commit|game save|continuity guardrails|FUTURE \/ UNCONFIRMED|Editorial references|Confidential author notes|roster\.json)/i.test(body), 'out-of-world content: '+id)
   // Only public identity fields are exported in JSON; proposed biography is never in the captain projection.
   assert(!JSON.stringify(p).includes('birthplace'))
   assert(!JSON.stringify(p).includes('Chronolith'))
