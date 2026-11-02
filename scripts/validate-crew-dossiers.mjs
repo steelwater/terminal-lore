@@ -41,10 +41,12 @@ for (const [i, p] of data.personnel.entries()) {
   const md = readFileSync(path, 'utf8')
   assert(md.includes('id: personnel-' + id))
   assert(md.includes('status: draft'))
-  assert(md.includes('PROPOSED / OWNER REVIEW'))
   assert(md.includes('2075-09-17'))
-  assert(md.includes('UNKNOWN'))
-  assert(md.includes('FUTURE / UNCONFIRMED'))
+  for (const heading of ['## Service identity', '## Personal details', '## Character and personal history', '## Service chronology']) {
+    assert(md.includes(heading), 'missing '+heading+' in '+id)
+  }
+  const body = md.replace(/^---\\n[\\s\\S]*?\\n---\\n/, '')
+  assert(!/(PROPOSED|OWNER REVIEW|prototype|PR #|source commit|game save|continuity guardrails|FUTURE \\/ UNCONFIRMED|Editorial references|Confidential author notes|roster\\.json)/i.test(body), 'out-of-world content: '+id)
   // Only public identity fields are exported in JSON; proposed biography is never in the captain projection.
   assert(!JSON.stringify(p).includes('birthplace'))
   assert(!JSON.stringify(p).includes('Chronolith'))
@@ -58,4 +60,6 @@ for (const [dept,count] of counts) assert(count <= 9, dept + ' exceeds keypad pa
 const readme = readFileSync(join(repo, 'final-log/personnel/README.md'), 'utf8')
 for (const id of ids) assert(readme.includes('horrox/' + id + '.md'), 'index missing ' + id)
 assert(readme.includes('**not** a canonical game import'))
+assert(readme.includes('Dialogue provenance and editorial references'))
+assert(existsSync(join(repo, 'docs/horrox-crew-editorial-notes.md')))
 console.log('Crew dossier registry OK: ' + ids.size + ' unique records; ' + counts.size + ' sections; no captain-facing private biography export.')

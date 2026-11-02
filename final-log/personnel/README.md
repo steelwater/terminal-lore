@@ -11,7 +11,7 @@ related: [1st-horrox-mining-ltd, minerva-mining-facility]
 
 **Editorial status: DRAFT / OWNER REVIEW — not new approved canon.** This registry belongs in **The Final Log**, the index and continuity archive. An actual recovered employee diary, interview, or in-universe report would be a separate work in [The Book of Memories](../../book-of-memories/README.md), not a substitute for these reference dossiers.
 
-The founding nine are taken **unchanged** from [Horrox Mining PR #11](https://github.com/steelwater/horrox-mining/pull/11), reviewed at commit `41c6643b2cc45ad71e04394225dc63c27eae6108` on 2026-10-24. PR #11 was open and unmerged when reviewed. Game-implemented identity fields are labeled **IMPLEMENTED / PROVISIONAL**; all new social and biographical writing is **PROPOSED / OWNER REVIEW**. Merging this dossier PR does **not** approve proposed biography.
+The founding nine are taken **unchanged** from [Horrox Mining PR #11](https://github.com/steelwater/horrox-mining/pull/11), reviewed at commit `41c6643b2cc45ad71e04394225dc63c27eae6108` on 2026-10-24. PR #11 was open and unmerged when reviewed. Individual dossier bodies now read as in-universe personnel records, with source references, editorial distinctions, permissions guidance and speculative hooks kept elsewhere. The owner reviewed the nine biographies and requested no individual changes; this presentation update does not silently promote entries to approved canon.
 
 ## Founding roster and new-fact mapping
 
@@ -48,10 +48,30 @@ Suggested later dossier pages: Personal Data, Qualifications, Service Record, Pe
 
 ## Source of truth and export
 
-- Human-readable individual dossiers are the **editable editorial sources**. Their implemented snapshot and proposed material are separated in headings; approved parts may later be promoted after explicit owner decision.
+- Human-readable individual dossiers are the **editable editorial sources**. Biographies and identity fields now appear as natural personnel records. The developer-only distinction between inherited prototype facts and originally proposed writing is tracked here and in the external editorial notes; canon promotion remains a separate owner action.
 - [`horrox/roster.json`](horrox/roster.json) is a **read-only, draft index of implemented prototype identities**, **not** a canonical game import. It intentionally omits all proposed upbringing, private information and future hooks. A future import requires a named, reviewed version and explicit opt-in.
 - [Schema and data boundary](SCHEMA.md) explain universe identity, era-specific visibility, simulation-only histories and recovered memories.
 - [Canon audit and owner review](../../docs/horrox-crew-dossier-review.md) tracks open choices and compatibility concerns.
+
+## Dialogue provenance and editorial references
+
+These are **existing game-authored sample lines**. Quotes and code provenance belong in the maintainer registry, not inside the in-universe personnel dossiers. A sample is not evidence a particular in-game session actually heard it.
+
+| Dossier | Sample line | Original source |
+|---|---|---|
+| [Mara Vale / Latch](horrox/mara-vale.md) | “Please continue respecting the deck markings. Paint is cheaper than explaining why we ignored it.” | [src/game/chatter.ts — paint-lines](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/chatter.ts) |
+| [Iko Ren / Patch](horrox/iko-ren.md) | “I found the missing torque driver. It was in the box labeled torque drivers.” | [src/game/chatter.ts — torque-driver](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/chatter.ts) |
+| [Sol Arden / Deepwell](horrox/sol-arden.md) | “No need to hurry the cut. The rock has had considerably longer to prepare than we have.” | [src/game/chatter.ts — patient-rock](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/chatter.ts) |
+| [Tess Oren / Rill](horrox/tess-oren.md) | “Sample, record, then move on. I like a sequence that tells you when you are finished.” | [src/game/chatter.ts — sampling-sequence](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/chatter.ts) |
+| [Ada Sen / Sieve](horrox/ada-sen.md) | “Keeping the figures clear.” | [src/game/crew.ts — phrase bank (existing prototype line)](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/crew.ts) |
+| [Noor Ven / Facet](horrox/noor-ven.md) | “It's Text Solitaire. It literally tells you which card it is.” | [src/game/crossAppChatter.ts — TS-06 (existing authored dialogue)](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/crossAppChatter.ts) |
+| [Eli Moss / Ledger](horrox/eli-moss.md) | “One entry at a time.” | [src/game/crew.ts — phrase bank (existing prototype line)](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/crew.ts) |
+| [Bea Kade / Crate](horrox/bea-kade.md) | “This ancient terminal won't even draw a card.” | [src/game/crossAppChatter.ts — TS-06 (existing authored dialogue)](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/crossAppChatter.ts) |
+| [Oren Dax / Keel](horrox/oren-dax.md) | “It says C.A.R.L. Simulator. Catacombs Adventure Rogue-Like?” | [src/game/crossAppChatter.ts — RL-02 (existing authored dialogue)](https://github.com/steelwater/horrox-mining/blob/41c6643b2cc45ad71e04394225dc63c27eae6108/src/game/crossAppChatter.ts) |
+
+Other implementation sources: [Horrox Mining PR #11](https://github.com/steelwater/horrox-mining/pull/11), reviewed commit `41c6643b2cc45ad71e04394225dc63c27eae6108`, `src/game/content.ts`, `src/game/crew.ts`, `src/game/types.ts`, `src/game/chatter.ts`, `src/game/crossAppChatter.ts`, `docs/milestone-4.md`; [original crew writing brief](https://docs.google.com/document/d/1QuizitxjoMQ8gCCZu3r-ij4-lVJP8jRGQg4BSC9DRuY/edit).
+
+[Author-only relationship caveats, story hooks, and continuity constraints](../../docs/horrox-crew-editorial-notes.md) are preserved separately.
 
 ## Continuity anchors
 
@@ -61,4 +81,4 @@ Suggested later dossier pages: Personal Data, Qualifications, Service Record, Pe
 
 ## Validation
 
-Run `node scripts/validate-crew-dossiers.mjs` from the repository root. Validation checks unique IDs, stable roster fields, dossier path resolution, nine-or-fewer per section, permitted captain projection, exact nine-person founding roster and proposal labeling.
+Run `node scripts/validate-crew-dossiers.mjs` from the repository root. Validation checks unique IDs, stable roster fields, dossier path resolution, nine-or-fewer per section, permitted captain projection, exact nine-person founding roster and immersive body language.

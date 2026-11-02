@@ -43,11 +43,15 @@
 8. **Relationship changes and service records are per-save only.** Any later promotion, transfer or friendship needs save-specific storage; the proposed dossier tension is not an event.
 9. **The registered voice/chatter phrases are game content under review.** A verbatim quote is an implementation sample, not an unchangeable canon utterance.
 
+## Presentation review update — 2 November 2026
+
+The owner reviewed all nine crew biographies and requested no changes to individual character information. Three comments on PR #10 requested that implementation labels, meta-talk and source references be moved out of the reader-facing dossiers. All nine files now read as personnel records. Quote provenance and source references live in [the registry README](../final-log/personnel/README.md); proposed future hooks and author notes live in [editorial-only notes](horrox-crew-editorial-notes.md). The frontmatter stays draft. The game was not changed.
+
 ## Owner acceptance checklist
 
 - [ ] Confirm all nine names, callsigns, roles, and departments against accepted Horrox Mining PR #11.
 - [ ] Confirm Latch / Patch / Deepwell / Rill voices, habits and existing relationships feel familiar.
-- [ ] Read each dossier and decide whether its place of origin, language, heritage, family, background and personality nuances are accepted or need changes.
+- [x] Owner reviewed individual dossiers and had no character-biography corrections. Formal canon-status approval remains separate.
 - [ ] Decide whether Keel should remain proposed Mars-born, and whether any birth years require adjustment.
 - [ ] Approve or reject additional tentative interdepartmental tensions; do not install them as simulated friendships yet.
 - [ ] Keep unresolved mineral discovery and 2075 spoiler restrictions intact.

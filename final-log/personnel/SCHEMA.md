@@ -4,7 +4,7 @@
 
 **The Final Log** is the canonical-location *for reference records*, but these particular records have `status: draft` until owner approval. A recognized game implementation at [horrox-mining PR #11](https://github.com/steelwater/horrox-mining/pull/11) is the provenance for names and operational characterization, not proof that an invented biography is canon. The Book of Memories stores recovered in-universe artifacts separately.
 
-The Markdown dossier is editorial source-of-truth for proposals. `horrox/roster.json` stores only the existing prototype identity fields for read-only inspection; it is deliberately conservative to avoid accidentally shipping private lore.
+Markdown dossiers are presented as immersive personnel reference records. Implementation provenance, story hooks and editor caveats are preserved in [the README](README.md) and [editorial notes](../../docs/horrox-crew-editorial-notes.md), outside the individual files. `horrox/roster.json` stores only prototype identity fields for read-only inspection, avoiding premature exposure of private lore.
 
 ## Four different information layers
 
@@ -17,7 +17,7 @@ The Markdown dossier is editorial source-of-truth for proposals. `horrox/roster.
 
 The manifest fields are `schema_version` (positive integer), `editorial_status`, `game_source_sha`, `game_source_pr`, `operation_start` (ISO calendar date), and `personnel` (ordered array). Each entry has `personnel_id` (stable unique lower-case slug), `canon_status` (currently `draft`), `identity_status` (`implemented-provisional`), `name`, `callsign`, `role`, `department`, `vessel_id` (string or null), `experience`, `radio_style`, `voice_profile_id`, `dossier` (relative Markdown path), `spoiler_visibility`, and `sources`.
 
-A dossier has repository-standard Final Log YAML frontmatter: `id`, `title`, `type`, `status`, `tags`, `related`. The body explicitly separates implemented/provisional evidence from **PROPOSED / OWNER REVIEW** writing. `UNKNOWN` is a value, not an excuse to create fabricated birth dates or unearned service medals.
+A dossier has repository-standard Final Log YAML frontmatter: `id`, `title`, `type`, `status`, `tags`, `related`. The frontmatter keeps `status: draft` while the body is written in-world, without `PROPOSED`, implementation metadata, source citations, future-story hooks, or spoiler restrictions. These distinctions live in the separate maintainer documentation. `UNKNOWN` in structured records and 'Not recorded' in prose do not authorize invented formal history.
 
 ## Stable IDs and game integration
 
@@ -29,7 +29,7 @@ A dossier has repository-standard Final Log YAML frontmatter: `id`, `title`, `ty
 
 ## Spoiler guardrails
 
-The initial captain projection must not include proposed origin, family, private fears, future plot hooks, later event outcomes, M2 catastrophe facts, Chronolith identification, or later-acquired facility/AI names. Even approved future-era biographical facts may require role-based authorization. A prose **preview** of a proposed employee summary in these dossiers is editorial text, not clearance.
+The initial captain projection must not include proposed origin, family, private fears, future plot hooks, later event outcomes, M2 catastrophe facts, Chronolith identification, or later-acquired facility/AI names. Even approved future-era biographical facts may require role-based authorization. A reader-facing dossier is a reference, **not** authorization to reveal all fields to the captain at opening; an explicit allowlist still controls the game projection.
 
 **No prewritten outcomes:** an imagined friendship remains a proposal; an actual trust change, accident or commendation only occurs when its save's events cause it.
 
